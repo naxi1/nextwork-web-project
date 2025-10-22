@@ -7,7 +7,6 @@
     <password>${env.CODEARTIFACT_AUTH_TOKEN}</password>
   </server>
 </servers>
-
 <profiles>
   <profile>
     <id>nextwork-nextwork-devops-cicd</id>
